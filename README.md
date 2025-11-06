@@ -1,3 +1,15 @@
-The Garage Management System (GMS) is a valuable tool for automotive repair facilities, helping them deliver top-notch service, increase operational efficiency, and build lasting customer relationships. With its user-friendly interface and powerful features, GMS empowers garages to thrive in a competitive market while ensuring a seamless and satisfying experience for both customers and staff.
+Here You will find all the document files related to the "Salesforce Garage Management system" Project.
+
+Team ID : NM2025TMID03454
+
+Team Size : 4
+
+Team Leader : Jenifa Grace P
+
+Team member : Prithika M
+
+Team member : Vijayasarathi M
+
+Team member : Sanjaikumar T
 
 You can review full procedure and documentation here: https://drive.google.com/drive/u/4/folders/1b8QwuYThBQ6rBSG_jPoo2JSICJ42x3NU
