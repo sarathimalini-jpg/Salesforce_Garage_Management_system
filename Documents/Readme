@@ -1,0 +1,74 @@
+🗂️ Folder & Document Plan
+1. Ideation Phase
+
+Brainstorming – Idea Generation.pdf
+
+Problem context, opportunities, brainstorming chart
+
+Define Problem Statement.pdf
+
+Clear definition of the GMS problem and scope
+
+Empathy Map Canvas.pdf
+
+Stakeholders: garage owner, mechanic, customer
+
+Readme.md
+
+Overview + objective summary
+
+2. Project Planning Phase
+
+Project Planning.pdf
+
+Project timeline, milestones, team roles, tools
+
+Readme.md
+
+Summary of planning and objectives
+
+3. Project Design Phase
+
+Proposed Solution.pdf
+
+Explanation of GMS workflow and Salesforce integration
+
+Solution Architecture.pdf
+
+Architecture diagram + explanation
+
+Problem-Solution Fit Template.pdf
+
+Problem vs features comparison
+
+Readme.md
+
+Design overview and visualization summary
+
+4. Requirement Analysis
+
+Solution Requirements.pdf
+
+Functional and non-functional requirements
+
+Data Flow Diagrams and User Flow.pdf
+
+DFD (Level 0–2), ER Diagram, Use Case Diagram
+
+Technology Stack Template.pdf
+
+Tools, frameworks, and technologies used (Salesforce modules, Apex, etc.)
+
+Readme.md
+
+Summary of requirements
+
+5. Performance Testing
+
+Performance Testing.pdf
+
+Testing plan, data accuracy, flow validation, and automation tests
+
+Readme.md
+
+Testing summary and evaluation
